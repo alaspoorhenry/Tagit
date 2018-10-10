@@ -1,0 +1,74 @@
+.topnav ul {
+    list-style:none;
+    margin:0;
+    padding:0;
+    float: right;
+
+ }
+
+.topnav li{
+	float: left;
+}
+
+.topnav li a {
+	font-family:'Futura-CondensedMedium';
+	font-size: 20px;
+	display: block;
+	padding: 20px 40px;
+	text-decoration: none;
+	color: black;
+
+}
+.topnav a:hover { 
+    color: #03d6b6;
+}
+#bannerimage {
+	background-color: white;
+}
+
+#bannerimage img{
+	padding-left: 35%;
+	padding-top: 5%;
+	max-width: 100%;
+  	height:auto;
+  	width: auto;
+}
+
+#tagline {
+	padding-left: 38%;
+	padding-bottom: 10%;
+	font-family:'Futura-CondensedMedium';
+	font-size: 24px;
+	color: black;
+    line-height:20px;
+}
+
+#Howitworks {
+	background-color: black;
+	padding-top: 100px;
+	padding-bottom:100px;
+}
+#QRbutton {
+	background-color: #03d6b6;
+	margin-top: 10px;
+	padding: 2px;
+	border-color: #03d6b6;
+	border-radius: 6px;
+	font-size: 18px;
+}
+.stepsHeader {
+	color: #03d6b6;
+}
+
+#whatwedo {
+	color: white;
+	font-family:'Futura-CondensedMedium';
+	font-size: 20px;
+	width: 70%;
+	margin-left: 25%;
+}
+
+
+#whatwedo td{
+	padding-top: 5%; 
+}
